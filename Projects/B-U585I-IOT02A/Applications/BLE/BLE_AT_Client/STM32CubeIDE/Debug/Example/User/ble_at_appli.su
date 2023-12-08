@@ -1,0 +1,7 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/BLE/BLE_AT_Client/Src/ble_at_appli.c:42:6:BSP_PB_Callback	96	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/BLE/BLE_AT_Client/Src/ble_at_appli.c:97:9:stm32wb_at_BLE_SVC_cb	16	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/BLE/BLE_AT_Client/Src/ble_at_appli.c:104:9:stm32wb_at_BLE_EVT_WRITE_cb	16	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/BLE/BLE_AT_Client/Src/ble_at_appli.c:121:9:stm32wb_at_BLE_EVT_CONN_cb	16	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/BLE/BLE_AT_Client/Src/ble_at_appli.c:140:9:stm32wb_at_ll_Transmit	24	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/BLE/BLE_AT_Client/Src/ble_at_appli.c:155:6:stm32wb_at_ll_Async_receive	16	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/BLE/BLE_AT_Client/Src/ble_at_appli.c:173:6:HAL_UART_RxCpltCallback	16	static

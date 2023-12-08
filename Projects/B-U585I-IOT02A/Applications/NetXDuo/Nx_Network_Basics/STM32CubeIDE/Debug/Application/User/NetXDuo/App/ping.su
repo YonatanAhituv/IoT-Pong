@@ -1,0 +1,5 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/NetXDuo/App/ping.c:63:17:standard_chksum	40	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/NetXDuo/App/ping.c:110:13:ping_prepare_echo	24	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/NetXDuo/App/ping.c:130:16:icmp_ping	200	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/NetXDuo/App/ping.c:237:16:ping_gethostbyname	64	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/NetXDuo/App/ping.c:263:9:ping_cmd	96	static

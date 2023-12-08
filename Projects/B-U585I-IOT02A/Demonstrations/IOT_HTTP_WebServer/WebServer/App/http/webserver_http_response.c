@@ -27,7 +27,7 @@
 /* Private define ----------------------------------------------------------------------------------------------------*/
 #define HTTP_SERVER_PORT         (80U)
 #define HTTP_RECEIVE_BUFFER_SIZE (1500U)
-#define HTTP_SENSORS_BUFFER_SIZE (20U)
+#define HTTP_SENSORS_BUFFER_SIZE (50U)
 #define HTTP_HEADERS_BUFFER_SIZE (500U)
 
 #define MAX_SOCKET_DATASIZE      (MX_WIFI_BUFFER_SIZE - 100U)
@@ -169,70 +169,13 @@ static WebServer_StatusTypeDef http_treat_request(int32_t socket)
     {
       http_send_response(socket, HTTP_HEADER_HTML_ID, http_header_response, html_buff, html_buff_size);
     }
-    /* Send css shunk */
-    else if (strncmp((char *)&recv_buffer[http_get_cmd_size], http_css_chunk_cmd, http_css_chunk_cmd_size) == 0U)
-    {
-      http_send_response(socket, HTTP_HEADER_CSS_ID, http_header_response, css_shunk_buff, css_shunk_buff_size);
-    }
-    /* Send main css */
-    else if (strncmp((char *)&recv_buffer[http_get_cmd_size], http_css_main_cmd, http_css_main_cmd_size) == 0U)
-    {
-      http_send_response(socket, HTTP_HEADER_CSS_ID, http_header_response, css_main_buff, css_main_buff_size);
-    }
-    /* Send js shunk */
-    else if (strncmp((char *)&recv_buffer[http_get_cmd_size], http_js_chunk_cmd, http_js_chunk_cmd_size) == 0U)
-    {
-      http_send_response(socket, HTTP_HEADER_JS_ID, http_header_response, js_shunk_buff, js_shunk_buff_size);
-    }
-    /* Send main js */
-    else if (strncmp((char *)&recv_buffer[http_get_cmd_size], http_js_main_cmd, http_js_main_cmd_size) == 0U)
-    {
-      http_send_response(socket, HTTP_HEADER_JS_ID, http_header_response, js_main_buff, js_main_buff_size);
-    }
-    /* Send favicon */
-    else if (strncmp((char *)&recv_buffer[http_get_cmd_size], http_favicon_cmd, http_favicon_cmd_size) == 0U)
-    {
-      http_send_response(socket, HTTP_HEADER_FAVICON_ID, http_header_response, favicon_buff, favicon_buff_size);
-    }
-    /* Send json */
-    else if (strncmp((char *)&recv_buffer[http_get_cmd_size], http_json_cmd, http_json_cmd_size) == 0U)
-    {
-      http_send_response(socket, HTTP_HEADER_JSON_ID, http_header_response, json_buff, json_buff_size);
-    }
-    /* Send font */
-    else if (strncmp((char *)&recv_buffer[http_get_cmd_size], http_font_cmd, http_font_cmd_size) == 0U)
-    {
-      http_send_response(socket, HTTP_HEADER_FONT_ID, http_header_response, font_buff, font_buff_size);
-    }
-    /* Send image */
-    else if (strncmp((char *)&recv_buffer[http_get_cmd_size], http_image_cmd, http_image_cmd_size) == 0U)
-    {
-      http_send_response(socket, HTTP_HEADER_IMAGE_ID, http_header_response, image_buff, image_buff_size);
-    }
-    /* Send read temperature response */
-    else if (strncmp((char *)&recv_buffer[http_get_cmd_size], http_read_temperature_cmd, http_read_temperature_cmd_size) == 0U)
-    {
-      float temperature_value = 0;
-      webserver_temp_sensor_read(&temperature_value);
-      sprintf(http_sensor_value, "%g", temperature_value);
-      http_send_response(socket, HTTP_HEADER_SENSOR_ID, http_header_response, http_sensor_value, strlen(http_sensor_value));
-    }
-    /* Send read pressure response */
-    else if (strncmp((char *)&recv_buffer[http_get_cmd_size], http_read_pressure_cmd, http_read_pressure_cmd_size) == 0U)
-    {
-      float pressure_value = 0;
-      webserver_press_sensor_read(&pressure_value);
-      sprintf(http_sensor_value, "%g", pressure_value);
-      http_send_response(socket, HTTP_HEADER_SENSOR_ID, http_header_response, http_sensor_value, strlen(http_sensor_value));
-    }
-    /* Send read humidity response */
-    else if (strncmp((char *)&recv_buffer[http_get_cmd_size], http_read_humidity_cmd, http_read_humidity_cmd_size) == 0U)
-    {
-      float humidity_value = 0;
-      webserver_humid_sensor_read(&humidity_value);
-      sprintf(http_sensor_value, "%g", humidity_value);
-      http_send_response(socket, HTTP_HEADER_SENSOR_ID, http_header_response, http_sensor_value, strlen(http_sensor_value));
-    }
+    else if (strncmp((char *)&recv_buffer[http_get_cmd_size], http_read_acel_cmd, http_read_acel_cmd_size) == 0U)
+    	    {
+    		  int x, y;
+    	      webserver_acel_read(&x, &y);
+    	      sprintf(http_sensor_value, "%i %i", x, y);
+    	      http_send_response(socket, HTTP_HEADER_SENSOR_ID, http_header_response, http_sensor_value, strlen(http_sensor_value));
+  }
   }
   else
   {

@@ -27,15 +27,8 @@
 /* Exported constants ------------------------------------------------------------------------------------------------*/
 /* Exported macro ----------------------------------------------------------------------------------------------------*/
 /* Exported functions ----------------------------------------------------------------------------------------------- */
-int webserver_temp_sensor_start(void);
-int webserver_temp_sensor_stop(void);
-int webserver_temp_sensor_read(float *value);
-int webserver_press_sensor_start(void);
-int webserver_press_sensor_stop(void);
-int webserver_press_sensor_read(float *value);
-int webserver_humid_sensor_start(void);
-int webserver_humid_sensor_stop(void);
-int webserver_humid_sensor_read(float *value);
+void webserver_acel_read(int* acelX, int* acelY);
+int webserver_acel_sensor_start();
 int webserver_sensors_start(void);
 
 /* Private defines ---------------------------------------------------------------------------------------------------*/

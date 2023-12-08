@@ -1,0 +1,7 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/Core/Src/stm32u5xx_hal_msp.c:67:6:HAL_MspInit	16	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/Core/Src/stm32u5xx_hal_msp.c:88:6:HAL_RNG_MspInit	224	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/Core/Src/stm32u5xx_hal_msp.c:121:6:HAL_RNG_MspDeInit	16	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/Core/Src/stm32u5xx_hal_msp.c:143:6:HAL_SPI_MspInit	248	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/Core/Src/stm32u5xx_hal_msp.c:249:6:HAL_SPI_MspDeInit	16	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/Core/Src/stm32u5xx_hal_msp.c:285:6:HAL_UART_MspInit	248	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/Core/Src/stm32u5xx_hal_msp.c:335:6:HAL_UART_MspDeInit	16	static

@@ -1,0 +1,7 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ecdh.c:76:21:_nx_crypto_ecdh_key_pair_import	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ecdh.c:157:6:_nx_crypto_ecdh_private_key_export	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ecdh.c:254:21:_nx_crypto_ecdh_setup	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ecdh.c:363:21:_nx_crypto_ecdh_compute_secret	6
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ecdh.c:490:22:_nx_crypto_method_ecdh_init	5
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ecdh.c:562:22:_nx_crypto_method_ecdh_cleanup	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ecdh.c:634:21:_nx_crypto_method_ecdh_operation	13

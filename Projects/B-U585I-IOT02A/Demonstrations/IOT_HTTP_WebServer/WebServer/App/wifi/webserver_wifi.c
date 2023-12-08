@@ -106,9 +106,9 @@ static WebServer_StatusTypeDef wifi_get_credentials(void)
 WebServer_StatusTypeDef webserver_wifi_connect(void)
 {
   static net_wifi_credentials_t  WifiCredentials = {
-  .ssid = "SSID-Not-Found",
-  .psk = "none",
-  .security_mode = 0
+  .ssid = "AnnoyingHotspot",
+  .psk = "ImagineNeedingThis",
+  .security_mode = NET_WIFI_SM_WPA2_WPA_PSK
   };
 
   /* start network interface */
@@ -120,8 +120,8 @@ WebServer_StatusTypeDef webserver_wifi_connect(void)
     /* Scan available WIFIs */
     scan_cmd(0, NULL);
 
-    /* Get user credentials */
-    wifi_get_credentials();
+//    /* Get user credentials */
+//    wifi_get_credentials();
 
     /* Scan available WIFIs */
     NetWifiGetDefaultStation(&WifiCredentials, net_wifi_registred_hotspot);

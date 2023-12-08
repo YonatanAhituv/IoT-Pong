@@ -1,0 +1,13 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:113:6:_nx_secure_x509_certificate_parse	64	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:299:13:_nx_secure_x509_extract_oid_data	80	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:492:13:_nx_secure_x509_parse_cert_data	72	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:698:13:_nx_secure_x509_parse_version	64	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:788:13:_nx_secure_x509_parse_serial_num	64	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:875:13:_nx_secure_x509_parse_signature_algorithm	80	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:1000:13:_nx_secure_x509_parse_issuer	64	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:1083:13:_nx_secure_x509_parse_validity	64	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:1206:13:_nx_secure_x509_parse_subject	64	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:1291:13:_nx_secure_x509_parse_public_key	88	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:1478:13:_nx_secure_x509_parse_unique_ids	72	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:1624:13:_nx_secure_x509_parse_extensions	64	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:1748:13:_nx_secure_x509_parse_signature_data	64	static

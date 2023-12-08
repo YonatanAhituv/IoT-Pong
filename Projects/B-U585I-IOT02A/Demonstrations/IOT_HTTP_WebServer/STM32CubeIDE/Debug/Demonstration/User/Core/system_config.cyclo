@@ -1,0 +1,5 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/Final/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/Core/Src/system_config.c:42:25:system_init	3
+/Users/AtomicOwner/Documents/UCLA/E96I/Final/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/Core/Src/system_config.c:64:6:instruction_cache_enable	1
+/Users/AtomicOwner/Documents/UCLA/E96I/Final/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/Core/Src/system_config.c:94:25:system_clock_config	4
+/Users/AtomicOwner/Documents/UCLA/E96I/Final/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/Core/Src/system_config.c:152:32:lptim_config	5
+/Users/AtomicOwner/Documents/UCLA/E96I/Final/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/Core/Src/system_config.c:218:13:LPTIM_UpdateEventCallback	1

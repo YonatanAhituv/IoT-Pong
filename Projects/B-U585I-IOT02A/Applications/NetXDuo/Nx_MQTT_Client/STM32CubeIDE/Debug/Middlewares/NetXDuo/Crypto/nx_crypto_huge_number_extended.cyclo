@@ -1,0 +1,3 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_huge_number_extended.c:82:21:_nx_crypto_huge_number_add_digit	4
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_huge_number_extended.c:158:21:_nx_crypto_huge_number_subtract_digit	4
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_huge_number_extended.c:249:21:_nx_crypto_huge_number_power_modulus	4

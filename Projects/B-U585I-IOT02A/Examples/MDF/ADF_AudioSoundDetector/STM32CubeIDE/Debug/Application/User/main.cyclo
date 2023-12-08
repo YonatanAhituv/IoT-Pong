@@ -1,0 +1,11 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/MDF/ADF_AudioSoundDetector/Src/main.c:75:5:main	2
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/MDF/ADF_AudioSoundDetector/Src/main.c:148:6:SystemClock_Config	4
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/MDF/ADF_AudioSoundDetector/Src/main.c:204:13:SystemPower_Config	2
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/MDF/ADF_AudioSoundDetector/Src/main.c:228:13:MX_ADF1_Init	2
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/MDF/ADF_AudioSoundDetector/Src/main.c:296:13:MX_ICACHE_Init	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/MDF/ADF_AudioSoundDetector/Src/main.c:328:13:MX_LPDMA1_Init	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/MDF/ADF_AudioSoundDetector/Src/main.c:370:13:MX_GPIO_Init	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/MDF/ADF_AudioSoundDetector/Src/main.c:388:13:MDF_DMAConfig	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/MDF/ADF_AudioSoundDetector/Src/main.c:401:13:EnterLowPowerMode	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/MDF/ADF_AudioSoundDetector/Src/main.c:415:6:HAL_MDF_SadCallback	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/MDF/ADF_AudioSoundDetector/Src/main.c:426:6:Error_Handler	1

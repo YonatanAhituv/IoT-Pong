@@ -1,0 +1,7 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/NetXDuo/App/app_netxduo.c:109:6:MX_NetXDuo_Init	20
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/NetXDuo/App/app_netxduo.c:353:13:ip_address_change_notify_callback	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/NetXDuo/App/app_netxduo.c:370:13:App_Main_Thread_Entry	9
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/NetXDuo/App/app_netxduo.c:506:13:App_Main2_Thread_Entry	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/NetXDuo/App/app_netxduo.c:537:13:dns_create	2
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/NetXDuo/App/app_netxduo.c:589:13:App_WiFi_Thread_Entry	2
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/NetXDuo/App/app_netxduo.c:653:13:NetXDuo_DeInit	2

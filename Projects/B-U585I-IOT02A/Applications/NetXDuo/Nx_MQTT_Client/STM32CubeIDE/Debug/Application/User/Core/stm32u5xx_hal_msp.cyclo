@@ -1,0 +1,7 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MQTT_Client/Core/Src/stm32u5xx_hal_msp.c:64:6:HAL_MspInit	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MQTT_Client/Core/Src/stm32u5xx_hal_msp.c:85:6:HAL_RNG_MspInit	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MQTT_Client/Core/Src/stm32u5xx_hal_msp.c:118:6:HAL_RNG_MspDeInit	2
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MQTT_Client/Core/Src/stm32u5xx_hal_msp.c:140:6:HAL_SPI_MspInit	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MQTT_Client/Core/Src/stm32u5xx_hal_msp.c:188:6:HAL_SPI_MspDeInit	2
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MQTT_Client/Core/Src/stm32u5xx_hal_msp.c:218:6:HAL_UART_MspInit	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MQTT_Client/Core/Src/stm32u5xx_hal_msp.c:268:6:HAL_UART_MspDeInit	2

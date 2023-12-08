@@ -33,47 +33,9 @@ extern const uint32_t http_get_cmd_size;
 extern const char     http_html_cmd[];
 extern const uint32_t http_html_cmd_size;
 
-/* Get css commands */
-extern const char     http_css_chunk_cmd[];
-extern const uint32_t http_css_chunk_cmd_size;
-extern const char     http_css_main_cmd[];
-extern const uint32_t http_css_main_cmd_size;
-
-/* Get js commands */
-extern const char     http_js_chunk_cmd[];
-extern const uint32_t http_js_chunk_cmd_size;
-extern const char     http_js_main_cmd[];
-extern const uint32_t http_js_main_cmd_size;
-
-/* Get font command */
-extern const char     http_font_cmd[];
-extern const uint32_t http_font_cmd_size;
-
-/* Get json command */
-extern const char     http_json_cmd[];
-extern const uint32_t http_json_cmd_size;
-
-/* Get favicon command */
-extern const char     http_favicon_cmd[];
-extern const uint32_t http_favicon_cmd_size;
-
-/* Get image command */
-extern const char     http_image_cmd[];
-extern const uint32_t http_image_cmd_size;
-
-/* Get css command */
-extern const char     http_css_cmd[];
-extern const uint32_t http_css_cmd_size;
-
-/* Read temperature command */
-extern const char     http_read_temperature_cmd[];
-extern const uint32_t http_read_temperature_cmd_size;
-/* Read pressure command */
-extern const char     http_read_pressure_cmd[];
-extern const uint32_t http_read_pressure_cmd_size;
-/* Read humidity command */
-extern const char     http_read_humidity_cmd[];
-extern const uint32_t http_read_humidity_cmd_size;
+/* Read aceleration command */
+extern const char     http_read_acel_cmd[];
+extern const uint32_t http_read_acel_cmd_size;
 
 /* HTTP response headers */
 extern const char     *http_headers[];

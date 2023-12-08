@@ -1,7 +1,0 @@
-[ProjectFiles]
-HeaderPath=..\..\..\..\..\..\Drivers\BSP\STM32U575I-EV;
-[Others]
-Define=
-HALModule=
-[Groups]
-Doc=../README.md;

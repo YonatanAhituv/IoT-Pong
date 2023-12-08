@@ -1,0 +1,85 @@
+Example/User/ble_at_appli.o: \
+ /Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/BLE/BLE_AT_Client/Src/ble_at_appli.c \
+ ../../Inc/ble_at_appli.h ../../Inc/main.h \
+ ../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal.h \
+ ../../Inc/stm32u5xx_hal_conf.h \
+ ../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_rcc.h \
+ ../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_def.h \
+ ../../../../../../../Drivers/CMSIS/Device/ST/STM32U5xx/Include/stm32u5xx.h \
+ ../../../../../../../Drivers/CMSIS/Device/ST/STM32U5xx/Include/stm32u585xx.h \
+ ../../../../../../../Drivers/CMSIS/Include/core_cm33.h \
+ ../../../../../../../Drivers/CMSIS/Include/cmsis_version.h \
+ ../../../../../../../Drivers/CMSIS/Include/cmsis_compiler.h \
+ ../../../../../../../Drivers/CMSIS/Include/cmsis_gcc.h \
+ ../../../../../../../Drivers/CMSIS/Include/mpu_armv8.h \
+ ../../../../../../../Drivers/CMSIS/Device/ST/STM32U5xx/Include/system_stm32u5xx.h \
+ ../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+ ../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_rcc_ex.h \
+ ../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_gpio.h \
+ ../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_gpio_ex.h \
+ ../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_icache.h \
+ ../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_dcache.h \
+ ../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_dma.h \
+ ../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_dma_ex.h \
+ ../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_cortex.h \
+ ../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_flash.h \
+ ../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_flash_ex.h \
+ ../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_pwr.h \
+ ../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_pwr_ex.h \
+ ../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_uart.h \
+ ../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_uart_ex.h \
+ ../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_usart.h \
+ ../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_usart_ex.h \
+ ../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_exti.h \
+ ../../../../../../../Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a.h \
+ ../../Inc/b_u585i_iot02a_conf.h \
+ ../../../../../../../Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_errno.h \
+ ../../../../../../../Drivers/BSP/Components/stm32wb_at/stm32wb_at.h \
+ ../../Inc/main.h \
+ ../../../../../../../Drivers/BSP/Components/stm32wb_at/stm32wb_at_ble.h \
+ ../../../../../../../Drivers/BSP/Components/stm32wb_at/stm32wb_at.h \
+ ../../../../../../../Drivers/BSP/Components/stm32wb_at/stm32wb_at_client.h \
+ ../../../../../../../Drivers/BSP/Components/stm32wb_at/stm32wb_at_ll.h \
+ ../../../../../../../Drivers/BSP/Components/stm32wb_at/stm32wb_at_ble.h
+../../Inc/ble_at_appli.h:
+../../Inc/main.h:
+../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal.h:
+../../Inc/stm32u5xx_hal_conf.h:
+../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_rcc.h:
+../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_def.h:
+../../../../../../../Drivers/CMSIS/Device/ST/STM32U5xx/Include/stm32u5xx.h:
+../../../../../../../Drivers/CMSIS/Device/ST/STM32U5xx/Include/stm32u585xx.h:
+../../../../../../../Drivers/CMSIS/Include/core_cm33.h:
+../../../../../../../Drivers/CMSIS/Include/cmsis_version.h:
+../../../../../../../Drivers/CMSIS/Include/cmsis_compiler.h:
+../../../../../../../Drivers/CMSIS/Include/cmsis_gcc.h:
+../../../../../../../Drivers/CMSIS/Include/mpu_armv8.h:
+../../../../../../../Drivers/CMSIS/Device/ST/STM32U5xx/Include/system_stm32u5xx.h:
+../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h:
+../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_rcc_ex.h:
+../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_gpio.h:
+../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_gpio_ex.h:
+../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_icache.h:
+../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_dcache.h:
+../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_dma.h:
+../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_dma_ex.h:
+../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_cortex.h:
+../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_flash.h:
+../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_flash_ex.h:
+../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_pwr.h:
+../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_pwr_ex.h:
+../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_uart.h:
+../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_uart_ex.h:
+../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_usart.h:
+../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_usart_ex.h:
+../../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_exti.h:
+../../../../../../../Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a.h:
+../../Inc/b_u585i_iot02a_conf.h:
+../../../../../../../Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_errno.h:
+../../../../../../../Drivers/BSP/Components/stm32wb_at/stm32wb_at.h:
+../../Inc/main.h:
+../../../../../../../Drivers/BSP/Components/stm32wb_at/stm32wb_at_ble.h:
+../../../../../../../Drivers/BSP/Components/stm32wb_at/stm32wb_at.h:
+../../../../../../../Drivers/BSP/Components/stm32wb_at/stm32wb_at_client.h:
+../../../../../../../Drivers/BSP/Components/stm32wb_at/stm32wb_at_ll.h:
+../../../../../../../Drivers/BSP/Components/stm32wb_at/stm32wb_at_ble.h:

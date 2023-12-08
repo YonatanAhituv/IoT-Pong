@@ -1,0 +1,4 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/NetXDuo/App/test_echo_server.c:41:13:fillbuffer	2
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/NetXDuo/App/test_echo_server.c:50:17:checkbuffer	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/NetXDuo/App/test_echo_server.c:68:13:EchoServerTest	12
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/NetXDuo/App/test_echo_server.c:196:9:test_echo_server	4

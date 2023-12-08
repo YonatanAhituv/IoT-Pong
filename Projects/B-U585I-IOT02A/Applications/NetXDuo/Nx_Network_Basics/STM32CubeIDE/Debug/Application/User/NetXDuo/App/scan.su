@@ -1,0 +1,4 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/NetXDuo/App/scan.c:45:16:mx_wifi_scan	24	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/NetXDuo/App/scan.c:66:16:mx_wifi_get_scan_result	24	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/NetXDuo/App/scan.c:88:20:wifi_security_to_string	24	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/NetXDuo/App/scan.c:127:9:scan_cmd	104	static

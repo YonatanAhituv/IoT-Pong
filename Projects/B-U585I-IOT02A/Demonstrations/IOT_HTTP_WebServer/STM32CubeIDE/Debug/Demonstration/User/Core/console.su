@@ -1,0 +1,6 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/Final/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/Core/Src/console.c:46:25:webserver_console_config	8	static
+/Users/AtomicOwner/Documents/UCLA/E96I/Final/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/Core/Src/console.c:81:6:webserver_console_print_header	8	static
+/Users/AtomicOwner/Documents/UCLA/E96I/Final/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/Core/Src/console.c:94:25:webserver_console_get_ssid	32	static
+/Users/AtomicOwner/Documents/UCLA/E96I/Final/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/Core/Src/console.c:154:25:webserver_console_get_password	24	static
+/Users/AtomicOwner/Documents/UCLA/E96I/Final/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/Core/Src/console.c:212:1:__io_putchar	16	static
+/Users/AtomicOwner/Documents/UCLA/E96I/Final/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/Core/Src/console.c:226:1:__io_getchar	16	static

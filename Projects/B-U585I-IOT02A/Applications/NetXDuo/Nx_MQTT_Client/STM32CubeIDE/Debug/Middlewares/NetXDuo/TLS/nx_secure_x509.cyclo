@@ -1,0 +1,13 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:113:6:_nx_secure_x509_certificate_parse	10
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:299:13:_nx_secure_x509_extract_oid_data	16
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:492:13:_nx_secure_x509_parse_cert_data	15
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:698:13:_nx_secure_x509_parse_version	4
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:788:13:_nx_secure_x509_parse_serial_num	4
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:875:13:_nx_secure_x509_parse_signature_algorithm	9
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:1000:13:_nx_secure_x509_parse_issuer	4
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:1083:13:_nx_secure_x509_parse_validity	12
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:1206:13:_nx_secure_x509_parse_subject	4
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:1291:13:_nx_secure_x509_parse_public_key	14
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:1478:13:_nx_secure_x509_parse_unique_ids	11
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:1624:13:_nx_secure_x509_parse_extensions	8
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509.c:1748:13:_nx_secure_x509_parse_signature_data	4

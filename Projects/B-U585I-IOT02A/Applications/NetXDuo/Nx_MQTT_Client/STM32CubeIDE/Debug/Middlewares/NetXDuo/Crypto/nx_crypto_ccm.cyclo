@@ -1,0 +1,7 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ccm.c:68:28:_nx_crypto_ccm_xor	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ccm.c:147:28:_nx_crypto_ccm_cbc_pad	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ccm.c:184:28:_nx_crypto_ccm_authentication_init	4
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ccm.c:300:21:_nx_crypto_ccm_encrypt_init	5
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ccm.c:386:21:_nx_crypto_ccm_encrypt_update	10
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ccm.c:497:21:_nx_crypto_ccm_encrypt_calculate	4
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ccm.c:579:21:_nx_crypto_ccm_decrypt_calculate	5

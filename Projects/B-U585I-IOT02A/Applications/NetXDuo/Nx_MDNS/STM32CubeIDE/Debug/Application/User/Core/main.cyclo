@@ -1,0 +1,14 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MDNS/Core/Src/main.c:84:5:main	2
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MDNS/Core/Src/main.c:186:6:SystemClock_Config	4
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MDNS/Core/Src/main.c:241:13:SystemPower_Config	2
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MDNS/Core/Src/main.c:266:13:MX_ICACHE_Init	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MDNS/Core/Src/main.c:298:13:MX_RNG_Init	2
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MDNS/Core/Src/main.c:325:13:MX_SPI2_Init	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MDNS/Core/Src/main.c:382:13:MX_USART1_UART_Init	5
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MDNS/Core/Src/main.c:430:13:MX_GPIO_Init	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MDNS/Core/Src/main.c:516:1:__io_putchar	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MDNS/Core/Src/main.c:546:6:HAL_GPIO_EXTI_Rising_Callback	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MDNS/Core/Src/main.c:567:5:hardware_rand	2
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MDNS/Core/Src/main.c:585:6:HAL_TIM_PeriodElapsedCallback	2
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MDNS/Core/Src/main.c:602:6:Error_Handler	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MDNS/Core/Src/main.c:623:6:assert_failed	1

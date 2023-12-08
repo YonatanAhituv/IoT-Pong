@@ -1,0 +1,8 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/GPIO/GPIO_EXTI/Src/stm32u5xx_it.c:73:6:NMI_Handler	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/GPIO/GPIO_EXTI/Src/stm32u5xx_it.c:86:6:HardFault_Handler	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/GPIO/GPIO_EXTI/Src/stm32u5xx_it.c:101:6:MemManage_Handler	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/GPIO/GPIO_EXTI/Src/stm32u5xx_it.c:116:6:SVC_Handler	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/GPIO/GPIO_EXTI/Src/stm32u5xx_it.c:129:6:DebugMon_Handler	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/GPIO/GPIO_EXTI/Src/stm32u5xx_it.c:142:6:PendSV_Handler	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/GPIO/GPIO_EXTI/Src/stm32u5xx_it.c:155:6:SysTick_Handler	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/GPIO/GPIO_EXTI/Src/stm32u5xx_it.c:179:6:EXTI13_IRQHandler	1

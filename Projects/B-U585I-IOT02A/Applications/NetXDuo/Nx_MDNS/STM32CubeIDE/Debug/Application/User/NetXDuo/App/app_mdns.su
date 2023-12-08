@@ -1,0 +1,8 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MDNS/NetXDuo/App/app_mdns.c:27:6:probing_notify	24	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MDNS/NetXDuo/App/app_mdns.c:63:6:cache_full_notify	24	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MDNS/NetXDuo/App/app_mdns.c:88:6:service_change_notify	32	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MDNS/NetXDuo/App/app_mdns.c:157:6:register_local_service	64	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MDNS/NetXDuo/App/app_mdns.c:173:6:delete_local_service	40	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MDNS/NetXDuo/App/app_mdns.c:186:6:delete_all_services	40	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MDNS/NetXDuo/App/app_mdns.c:241:6:perform_oneshot_query	40	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MDNS/NetXDuo/App/app_mdns.c:290:6:start_continous_query	32	static

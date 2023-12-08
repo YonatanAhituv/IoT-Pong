@@ -1,0 +1,15 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_motion_sensors.c:81:9:BSP_MOTION_SENSOR_Init	24	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_motion_sensors.c:128:9:BSP_MOTION_SENSOR_DeInit	24	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_motion_sensors.c:162:9:BSP_MOTION_SENSOR_GetCapabilities	24	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_motion_sensors.c:193:9:BSP_MOTION_SENSOR_ReadID	24	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_motion_sensors.c:226:9:BSP_MOTION_SENSOR_Enable	24	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_motion_sensors.c:266:9:BSP_MOTION_SENSOR_Disable	24	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_motion_sensors.c:307:9:BSP_MOTION_SENSOR_GetAxes	32	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_motion_sensors.c:347:9:BSP_MOTION_SENSOR_GetAxesRaw	32	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_motion_sensors.c:387:9:BSP_MOTION_SENSOR_GetSensitivity	32	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_motion_sensors.c:427:9:BSP_MOTION_SENSOR_GetOutputDataRate	32	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_motion_sensors.c:467:9:BSP_MOTION_SENSOR_SetOutputDataRate	32	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_motion_sensors.c:507:9:BSP_MOTION_SENSOR_GetFullScale	32	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_motion_sensors.c:547:9:BSP_MOTION_SENSOR_SetFullScale	32	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_motion_sensors.c:598:16:ISM330DHCX_Probe	56	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_motion_sensors.c:661:16:IIS2MDC_Probe	56	static

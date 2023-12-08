@@ -1,0 +1,5 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ecdsa.c:77:21:_nx_crypto_ecdsa_sign	208	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ecdsa.c:316:21:_nx_crypto_ecdsa_verify	304	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ecdsa.c:524:22:_nx_crypto_method_ecdsa_init	32	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ecdsa.c:603:22:_nx_crypto_method_ecdsa_cleanup	16	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ecdsa.c:675:21:_nx_crypto_method_ecdsa_operation	104	static

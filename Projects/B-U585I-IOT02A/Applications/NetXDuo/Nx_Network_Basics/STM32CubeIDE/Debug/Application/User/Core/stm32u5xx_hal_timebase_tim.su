@@ -1,0 +1,3 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/Core/Src/stm32u5xx_hal_timebase_tim.c:41:19:HAL_InitTick	64	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/Core/Src/stm32u5xx_hal_timebase_tim.c:109:6:HAL_SuspendTick	4	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_Network_Basics/Core/Src/stm32u5xx_hal_timebase_tim.c:121:6:HAL_ResumeTick	4	static

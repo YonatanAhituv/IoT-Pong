@@ -1,0 +1,7 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/levelx/common/drivers/lx_stm32_ospi_driver.c:32:13:check_status	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/levelx/common/drivers/lx_stm32_ospi_driver.c:52:6:lx_stm32_ospi_initialize	7
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/levelx/common/drivers/lx_stm32_ospi_driver.c:128:13:lx_ospi_driver_read_sector	5
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/levelx/common/drivers/lx_stm32_ospi_driver.c:167:14:lx_ospi_driver_write_sector	5
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/levelx/common/drivers/lx_stm32_ospi_driver.c:198:14:lx_ospi_driver_erase_block	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/levelx/common/drivers/lx_stm32_ospi_driver.c:219:13:lx_ospi_driver_block_erased_verify	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/levelx/common/drivers/lx_stm32_ospi_driver.c:240:13:lx_ospi_driver_system_error	1

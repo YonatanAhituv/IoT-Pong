@@ -1,0 +1,12 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MQTT_Client/NetXDuo/App/app_netxduo.c:105:6:MX_NetXDuo_Init	20
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MQTT_Client/NetXDuo/App/app_netxduo.c:282:13:ip_address_change_notify_callback	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MQTT_Client/NetXDuo/App/app_netxduo.c:293:6:dns_create	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MQTT_Client/NetXDuo/App/app_netxduo.c:318:13:App_Main_Thread_Entry	6
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MQTT_Client/NetXDuo/App/app_netxduo.c:370:13:my_disconnect_func	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MQTT_Client/NetXDuo/App/app_netxduo.c:378:13:my_notify_func	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MQTT_Client/NetXDuo/App/app_netxduo.c:392:6:message_generate	2
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MQTT_Client/NetXDuo/App/app_netxduo.c:408:7:nx_secure_tls_session_time_function	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MQTT_Client/NetXDuo/App/app_netxduo.c:414:6:tls_setup_callback	7
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MQTT_Client/NetXDuo/App/app_netxduo.c:479:13:time_update_callback	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MQTT_Client/NetXDuo/App/app_netxduo.c:491:13:App_SNTP_Thread_Entry	8
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_MQTT_Client/NetXDuo/App/app_netxduo.c:573:13:App_MQTT_Client_Thread_Entry	16

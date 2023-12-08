@@ -1,0 +1,17 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_light_sensor.c:74:9:BSP_LIGHT_SENSOR_Init	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_light_sensor.c:103:9:BSP_LIGHT_SENSOR_DeInit	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_light_sensor.c:127:9:BSP_LIGHT_SENSOR_ReadID	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_light_sensor.c:153:9:BSP_LIGHT_SENSOR_GetCapabilities	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_light_sensor.c:180:9:BSP_LIGHT_SENSOR_SetGain	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_light_sensor.c:207:9:BSP_LIGHT_SENSOR_GetGain	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_light_sensor.c:234:9:BSP_LIGHT_SENSOR_SetExposureTime	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_light_sensor.c:262:9:BSP_LIGHT_SENSOR_GetExposureTime	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_light_sensor.c:293:9:BSP_LIGHT_SENSOR_SetInterMeasurementTime	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_light_sensor.c:320:9:BSP_LIGHT_SENSOR_GetInterMeasurementTime	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_light_sensor.c:347:9:BSP_LIGHT_SENSOR_Start	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_light_sensor.c:372:9:BSP_LIGHT_SENSOR_Stop	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_light_sensor.c:402:9:BSP_LIGHT_SENSOR_StartFlicker	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_light_sensor.c:428:9:BSP_LIGHT_SENSOR_StopFlicker	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_light_sensor.c:456:9:BSP_LIGHT_SENSOR_GetValues	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_light_sensor.c:484:9:BSP_LIGHT_SENSOR_SetControlMode	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_light_sensor.c:516:16:VEML3235_Probe	4

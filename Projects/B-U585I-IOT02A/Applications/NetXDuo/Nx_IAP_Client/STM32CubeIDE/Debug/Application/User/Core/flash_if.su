@@ -1,0 +1,4 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_IAP_Client/Core/Src/flash_if.c:51:6:FLASH_If_Init	8	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_IAP_Client/Core/Src/flash_if.c:66:9:FLASH_If_Erase	40	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_IAP_Client/Core/Src/flash_if.c:106:10:FLASH_If_Write	64	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_IAP_Client/Core/Src/flash_if.c:141:17:GetPage	24	static

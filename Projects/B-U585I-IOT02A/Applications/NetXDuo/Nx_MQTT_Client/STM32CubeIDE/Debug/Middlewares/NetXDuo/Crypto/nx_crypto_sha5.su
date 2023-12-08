@@ -1,0 +1,7 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_sha5.c:118:22:_nx_crypto_sha512_initialize	16	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_sha5.c:237:21:_nx_crypto_sha512_update	112	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_sha5.c:365:21:_nx_crypto_sha512_digest_calculate	56	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_sha5.c:501:21:_nx_crypto_sha512_process_buffer	592	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_sha5.c:623:22:_nx_crypto_method_sha512_init	24	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_sha5.c:695:22:_nx_crypto_method_sha512_cleanup	16	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_sha5.c:770:22:_nx_crypto_method_sha512_operation	32	static

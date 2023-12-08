@@ -1,0 +1,7 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/CRYP/CRYP_SAES_SharedKey/Src/main.c:94:5:main	8
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/CRYP/CRYP_SAES_SharedKey/Src/main.c:212:6:SystemClock_Config	4
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/CRYP/CRYP_SAES_SharedKey/Src/main.c:269:13:SystemPower_Config	2
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/CRYP/CRYP_SAES_SharedKey/Src/main.c:293:13:MX_ICACHE_Init	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/CRYP/CRYP_SAES_SharedKey/Src/main.c:325:13:MX_RNG_Init	2
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/CRYP/CRYP_SAES_SharedKey/Src/main.c:352:13:MX_SAES_AES_Init	2
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/CRYP/CRYP_SAES_SharedKey/Src/main.c:389:6:Error_Handler	1

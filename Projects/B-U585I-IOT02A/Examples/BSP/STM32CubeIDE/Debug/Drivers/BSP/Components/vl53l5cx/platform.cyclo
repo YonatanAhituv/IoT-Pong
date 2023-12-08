@@ -1,0 +1,6 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/Components/vl53l5cx/porting/platform.c:21:9:RdByte	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/Components/vl53l5cx/porting/platform.c:29:9:WrByte	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/Components/vl53l5cx/porting/platform.c:37:9:WrMulti	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/Components/vl53l5cx/porting/platform.c:46:9:RdMulti	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/Components/vl53l5cx/porting/platform.c:55:6:SwapBuffer	2
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/Components/vl53l5cx/porting/platform.c:74:9:WaitMs	2

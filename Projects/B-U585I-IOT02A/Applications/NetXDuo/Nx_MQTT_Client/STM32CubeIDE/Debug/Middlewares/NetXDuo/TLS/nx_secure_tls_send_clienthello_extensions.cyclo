@@ -1,0 +1,6 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_send_clienthello_extensions.c:141:6:_nx_secure_tls_send_clienthello_extensions	7
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_send_clienthello_extensions.c:324:13:_nx_secure_tls_send_clienthello_sig_extension	4
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_send_clienthello_extensions.c:406:6:_nx_secure_tls_get_signature_algorithm	11
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_send_clienthello_extensions.c:1345:13:_nx_secure_tls_send_clienthello_sni_extension	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_send_clienthello_extensions.c:1499:13:_nx_secure_tls_send_clienthello_sec_reneg_extension	5
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_send_clienthello_extensions.c:1672:13:_nx_secure_tls_send_clienthello_sec_spf_extensions	4

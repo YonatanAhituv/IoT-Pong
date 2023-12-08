@@ -1,0 +1,15 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/LevelX/Target/lx_stm32_ospi_driver_glue.c:58:5:lx_stm32_ospi_lowlevel_init	24	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/LevelX/Target/lx_stm32_ospi_driver_glue.c:102:5:lx_stm32_ospi_lowlevel_deinit	24	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/LevelX/Target/lx_stm32_ospi_driver_glue.c:128:5:lx_stm32_ospi_get_status	104	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/LevelX/Target/lx_stm32_ospi_driver_glue.c:198:5:lx_stm32_ospi_get_info	32	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/LevelX/Target/lx_stm32_ospi_driver_glue.c:224:5:lx_stm32_ospi_read	112	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/LevelX/Target/lx_stm32_ospi_driver_glue.c:287:5:lx_stm32_ospi_write	128	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/LevelX/Target/lx_stm32_ospi_driver_glue.c:402:5:lx_stm32_ospi_erase	112	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/LevelX/Target/lx_stm32_ospi_driver_glue.c:476:5:lx_stm32_ospi_is_block_erased	24	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/LevelX/Target/lx_stm32_ospi_driver_glue.c:493:7:lx_ospi_driver_system_error	24	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/LevelX/Target/lx_stm32_ospi_driver_glue.c:509:16:ospi_memory_reset	120	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/LevelX/Target/lx_stm32_ospi_driver_glue.c:577:16:ospi_set_write_enable	104	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/LevelX/Target/lx_stm32_ospi_driver_glue.c:622:16:ospi_auto_polling_ready	128	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/LevelX/Target/lx_stm32_ospi_driver_glue.c:686:16:ospi_set_octal_mode	128	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/LevelX/Target/lx_stm32_ospi_driver_glue.c:854:6:HAL_OSPI_RxCpltCallback	16	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/LevelX/Target/lx_stm32_ospi_driver_glue.c:872:6:HAL_OSPI_TxCpltCallback	16	static

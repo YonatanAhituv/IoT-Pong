@@ -1,0 +1,7 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/Target/net_interface.c:33:17:sys_now	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/Target/net_interface.c:38:6:NetWifiGetDefaultStation	6
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/Target/net_interface.c:72:9:scan_cmd	4
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/Target/net_interface.c:103:18:NetInterfaceOn	4
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/Target/net_interface.c:142:6:NetInterfaceOff	5
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/Target/net_interface.c:167:6:NetInterfaceConnect	10
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/Target/net_interface.c:234:6:NetInterfaceDisconnect	5

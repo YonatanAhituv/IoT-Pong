@@ -1,0 +1,11 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/Core/Src/main.c:82:5:main	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/Core/Src/main.c:135:6:SystemClock_Config	4
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/Core/Src/main.c:189:13:SystemPower_Config	2
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/Core/Src/main.c:213:13:MX_GPDMA1_Init	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/Core/Src/main.c:241:13:MX_ICACHE_Init	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/Core/Src/main.c:273:13:MX_OCTOSPI2_Init	4
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/Core/Src/main.c:333:13:MX_USART1_UART_Init	5
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/Core/Src/main.c:381:13:MX_GPIO_Init	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/Core/Src/main.c:413:1:__io_putchar	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/Core/Src/main.c:431:6:HAL_TIM_PeriodElapsedCallback	2
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/FileX/Fx_NoR_Write_Read_File/Core/Src/main.c:448:6:Error_Handler	1

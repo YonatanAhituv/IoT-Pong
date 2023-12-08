@@ -1,0 +1,4 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/BLE/BLE_AT_Client/Src/stm32u5xx_hal_msp.c:47:6:HAL_MspInit	4	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/BLE/BLE_AT_Client/Src/stm32u5xx_hal_msp.c:58:6:HAL_MspDeInit	4	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/BLE/BLE_AT_Client/Src/stm32u5xx_hal_msp.c:71:6:HAL_UART_MspInit	256	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/BLE/BLE_AT_Client/Src/stm32u5xx_hal_msp.c:153:6:HAL_UART_MspDeInit	16	static

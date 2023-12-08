@@ -1,0 +1,3 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/BSP/Src/light_sensor.c:58:9:Ls_demo	8	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/BSP/Src/light_sensor.c:116:17:LIGHT_SENSOR_LuxCompensation	32	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Examples/BSP/Src/light_sensor.c:136:16:LIGHT_SENSOR_ConvertToLUX	48	static

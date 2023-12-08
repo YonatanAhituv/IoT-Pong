@@ -1,0 +1,9 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/Components/m24256/m24256.c:68:9:M24256_RegisterBusIO	3
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/Components/m24256/m24256.c:109:9:M24256_Init	2
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/Components/m24256/m24256.c:124:9:M24256_DeInit	2
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/Components/m24256/m24256.c:138:9:M24256_Write	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/Components/m24256/m24256.c:148:9:M24256_Read	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/Components/m24256/m24256.c:159:9:M24256_IsReady	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/Components/m24256/m24256.c:178:16:M24256_ReadWrap	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/Components/m24256/m24256.c:194:16:M24256_WriteWrap	1
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/BSP/Components/m24256/m24256.c:208:16:M24256_IsReadyWrap	1

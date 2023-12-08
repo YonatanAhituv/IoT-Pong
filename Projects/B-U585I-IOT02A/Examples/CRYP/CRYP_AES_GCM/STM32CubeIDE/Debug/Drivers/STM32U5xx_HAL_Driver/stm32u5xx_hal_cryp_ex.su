@@ -1,0 +1,8 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_cryp_ex.c:102:19:HAL_CRYPEx_AESGCM_GenerateAuthTAG	72	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_cryp_ex.c:214:19:HAL_CRYPEx_AESCCM_GenerateAuthTAG	40	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_cryp_ex.c:334:19:HAL_CRYPEx_WrapKey	32	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_cryp_ex.c:379:19:HAL_CRYPEx_UnwrapKey	32	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_cryp_ex.c:440:19:HAL_CRYPEx_EncryptSharedKey	32	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_cryp_ex.c:487:19:HAL_CRYPEx_DecryptSharedKey	32	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_cryp_ex.c:539:26:CRYPEx_KeyDecrypt	32	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_cryp_ex.c:648:26:CRYPEx_KeyEncrypt	32	static

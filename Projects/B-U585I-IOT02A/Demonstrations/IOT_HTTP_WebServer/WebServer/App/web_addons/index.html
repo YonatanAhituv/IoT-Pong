@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+    <title>Rieber Hall Tracker</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+</head>
+<div>
+    <canvas id="myChart" style="background-image: https://www.housing.ucla.edu/maps/plans/rie-so-03.gif"></canvas>
+</div>
+<body>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+    const ctx = document.getElementById('myChart');
+    data = {
+            datasets: [{
+                label: 'Your Position',
+                data: [{
+                    x: 0,
+                    y: 0
+                }]
+            }],
+        };
+    chart = new Chart(ctx, {
+        type: 'scatter',
+        data: data,
+        options: {
+            scales: {
+                x: {
+                    type: 'linear',
+                    position: 'bottom',
+                    suggestedMin: -100,
+                    suggestedMax: 100
+                },
+                y: {
+                    suggestedMin: -100,
+                    suggestedMax: 100
+                }
+            }
+        }
+    });
+    
+    setInterval(function () {
+            var xmlHttp = new XMLHttpRequest();
+            xmlHttp.open("GET", "/Read_Offset", false); // false for synchronous request
+            xmlHttp.send(null);
+            var response = xmlHttp.responseText.split(" ");
+            console.log(response);
+            chart.data.datasets[0].data[0] = {x: parseInt(Math.floor(parseFloat(response[0]))), y: parseInt(Math.floor(parseFloat(response[1])))};
+            chart.update();
+        }, 1000);
+
+</script>
+</body>
+</html>

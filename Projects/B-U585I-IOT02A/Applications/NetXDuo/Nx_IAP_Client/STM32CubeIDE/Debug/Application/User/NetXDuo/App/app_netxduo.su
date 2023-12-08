@@ -1,0 +1,6 @@
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_IAP_Client/NetXDuo/App/app_netxduo.c:94:6:MX_NetXDuo_Init	104	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_IAP_Client/NetXDuo/App/app_netxduo.c:325:13:ip_address_change_notify_callback	16	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_IAP_Client/NetXDuo/App/app_netxduo.c:342:13:App_Main_Thread_Entry	88	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_IAP_Client/NetXDuo/App/app_netxduo.c:449:13:App_Main2_Thread_Entry	24	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_IAP_Client/NetXDuo/App/app_netxduo.c:481:13:App_IAP_Thread_Entry	80	static
+/Users/AtomicOwner/Documents/UCLA/E96I/STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_IAP_Client/NetXDuo/App/app_netxduo.c:521:6:NetXDuo_DeInit	88	static
