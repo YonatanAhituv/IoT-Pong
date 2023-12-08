@@ -12,8 +12,9 @@ Then the SystemClock_Config() function is used to configure the system clock (SY
 
 - At first step, the demonstration configures all required resources (System/Clocks/LEDs/Sensors/Wifi module ...).
 Then, a scan for available wifi access point is done and the exhaustive list is printed in the hyper terminal.
-After that the demonstration asks the user to enter his credentials (SSID : Login and PWD : PassWorD) for wifi access
-point.
+After that the project will connect to the wifi network pre-configured in Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_Webserver/Webserver/App/wifi/webserver_wifi.c
+  - On line 109, 110, and 111, network information must be set
+  - A list of all network secuirity options are located in: Middlewares/ST/STM32_Network_Library/Includes/net_wifi.h
 
 - When credentials are valid, the demonstration starts the network interface process and prints the different steps on the
 hyper terminal as follow
