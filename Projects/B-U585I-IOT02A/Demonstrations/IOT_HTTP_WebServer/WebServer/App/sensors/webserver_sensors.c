@@ -154,49 +154,7 @@ void webserver_acel_read(int *acelX, int *acelY)
 {
   int32_t result;
   BSP_MOTION_SENSOR_Axes_t axes;
-  /*
-   * Introduce delay establishing integration interval
-   * This is summed with sensor data access delay to
-   * yield loop delay of 4 msec
-   */
-  //  if (prev_time == 0)
-  //	  prev_time = HAL_GetTick();
-  //  W_HP = 2 * 3.1416 * HIGH_PASS_FILTER_FREQUENCY_DISP;
-  //  I_HP = 2 / (W_HP * (integration_interval));
-  //  if (HP_FILTER_ENABLE_DISP == 1)
-  //  {
-  //    iir_HP_0 = 1 - (1 / (1 + I_HP));
-  //    iir_HP_1 = -iir_HP_0;
-  //    iir_HP_2 = (1 / (1 + I_HP)) * (1 - I_HP);
-  //  }
-  //  if (HP_FILTER_ENABLE_DISP == 0)
-  //  {
-  //    iir_HP_0 = 1;
-  //    iir_HP_1 = 0;
-  //    iir_HP_2 = 0;
-  //  }
-  //
-  //  /*
-  //   * Compute low pass filter coefficients
-  //   */
-  //
-  //  W_LP = 2 * 3.1416 * LOW_PASS_FILTER_FREQUENCY_DISP;
-  //  I_LP = 2 / (W_LP * integration_interval);
-  //  if (LP_FILTER_ENABLE_DISP == 1)
-  //  {
-  //    iir_LP_0 = 1 / (1 + I_LP);
-  //    iir_LP_1 = iir_LP_0;
-  //    iir_LP_2 = (1 / (1 + I_LP)) * (1 - I_LP);
-  //  }
-  //  if (LP_FILTER_ENABLE_DISP == 0)
-  //  {
-  //    iir_LP_0 = 1;
-  //    iir_LP_1 = 0;
-  //    iir_LP_2 = 0;
-  //  }
-  //
-  //  HAL_Delay(2);
-  //
+  
   result = 0;
   if (BSP_MOTION_SENSOR_GetAxes(0, MOTION_ACCELERO, &axes) != BSP_ERROR_NONE)
     result--;
@@ -204,63 +162,6 @@ void webserver_acel_read(int *acelX, int *acelY)
   {
     printf("Sampling Error %i\n", result);
   }
-  //
-  //  /* Convert acceleration to millimeter/sec/sec units sing 1 milli-g = (9.81 m/s/s)/1000 */
-  //
-  //  acc_x = 9.81 * (float)(axes.xval);
-  //  acc_y = 9.81 * (float)(axes.yval);
-  //
-  //  /* Apply Low Pass filter to acceleration */
-  //  acc_x_filter_lp = iir_LP_0 * acc_x + iir_LP_1 * acc_x_prev - iir_LP_2 * acc_x_filter_lp_prev;
-  //  acc_y_filter_lp = iir_LP_0 * acc_y + iir_LP_1 * acc_y_prev - iir_LP_2 * acc_y_filter_lp_prev;
-  //
-  //  /* Apply High Pass filter to signal of Low Pass filter to acceleration */
-  //  acc_x_filter_hp = iir_HP_0 * acc_x_filter_lp + iir_HP_1 * acc_x_filter_lp_prev - iir_HP_2 * acc_x_filter_hp_prev;
-  //  acc_y_filter_hp = iir_HP_0 * acc_y_filter_lp + iir_HP_1 * acc_y_filter_lp_prev - iir_HP_2 * acc_y_filter_hp_prev;
-  //
-  //  acc_x_prev = acc_x;
-  //  acc_y_prev = acc_y;
-  //
-  //  /*
-  //   * Compute velocity by integration
-  //   */
-  //
-  //  if (abs(acc_x_filter_hp) < 10)
-  //  {
-  //    acc_x_filter_hp = 0;
-  //  }
-  //  if (abs(acc_y_filter_hp) < 10)
-  //  {
-  //    acc_y_filter_hp = 0;
-  //  }
-  //
-  //  vel_x = vel_x + (acc_x_filter_hp + acc_x_filter_hp_prev) * integration_interval / 2;
-  //  vel_y = vel_y + (acc_y_filter_hp + acc_y_filter_hp_prev) * integration_interval / 2;
-  //  displacement_x += (vel_x + vel_x_prev) * integration_interval / 2;
-  //  displacement_y += (vel_y + vel_y_prev) * integration_interval / 2;
-  //
-  //  acc_x_filter_lp_prev = acc_x_filter_lp;
-  //  acc_y_filter_lp_prev = acc_y_filter_lp;
-  //
-  //  acc_x_filter_hp_prev = acc_x_filter_hp;
-  //  acc_y_filter_hp_prev = acc_y_filter_hp;
-  //
-  //  /*
-  //   * Detect motion and assign velocities to features
-  //   */
-  //
-  //  vel_mag = sqrt((vel_x) * (vel_x) + (vel_y) * (vel_y));
-  //  if (abs(vel_mag - vel_mag_prev) < 0.01)
-  //  {
-  //    vel_x = 0;
-  //    vel_y = 0;
-  //  }
-  //  vel_mag_prev = vel_mag;
-  //  vel_x_prev = vel_x;
-  //  vel_y_prev = vel_y;
-  //  displacement_mag = sqrt((displacement_x) * (displacement_x) + (displacement_y) * (displacement_y));
-  //
-  //  printf("**Acceleration** X: %f, Y: %f | **Velocity** Magnitude: %f, X: %f, Y: %f | **Displacement** Magnitude: %f, X: %f, Y: %f\n ", acc_x_filter_hp, acc_y_filter_hp, vel_mag, vel_x, vel_y, displacement_mag, displacement_x, displacement_y);
   *acelX = axes.xval;
   *acelY = axes.yval;
   return;
